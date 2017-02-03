@@ -1,0 +1,6 @@
+<resources>
+    <!--that's the name of the app -->
+    <string name="app_name">BusinessReview</string>
+    <!--that's the title -->
+    <string name="epfl">EPFL</string>
+</resources>
